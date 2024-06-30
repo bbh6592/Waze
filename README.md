@@ -1,2 +1,2 @@
 # Waze
-AGDA Project
+The Waze project encompasses several key activities aimed at translating data into actionable insights. Initially, it involves exploratory data analysis, which includes importing and loading data, data cleaning, and building visualizations to uncover patterns and insights. Following this, the project focuses on statistical analysis, applying descriptive statistics, hypothesis testing, and regression modeling to understand complex data relationships and provide business recommendations. Additionally, a machine learning model is built to predict user churn, involving ethical considerations, feature engineering, and model building, evaluation, and refinement to identify factors driving user retention and churn.
